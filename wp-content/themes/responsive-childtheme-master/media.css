@@ -1,0 +1,1963 @@
+	.page-id-61 #ui-datepicker-div
+	{
+		display:block !important;
+		position:inherit !important;
+	}
+	
+	.owl-carousel.propty_feat_image .owl-item img 
+	{
+		width:100%;
+	}
+	
+
+	.get_map_link
+	{
+		border-radius: 15px;
+		margin-bottom: 10px;
+		padding: 5px 15px;
+	}
+	
+	.hide_show_map_box
+	{
+		border-radius:10px;
+	}
+	
+	.icon_img_dishwasr
+	{
+		margin:0 5px;
+	}
+	
+	.page-id-61 .event a 
+	{
+		background-color: #42B373 !important;
+		background-image :none !important;
+		color: #ffffff !important;
+	}
+	
+	.page-id-61 .ui-datepicker td.ui-state-disabled>span
+	{
+		background:#f6f6f6 !important; 
+		color:#454545;
+	}
+	
+	.page-id-61 .ui-datepicker-trigger
+	{
+		opacity:0;
+		position:absolute;
+	}
+	
+	.appendar_desktp a.btn-danger
+	{
+		border-radius: 20px;
+		padding: 3px 11px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	
+	.page-id-61 .ui-datepicker td.ui-state-disabled
+	{
+		opacity:100 !important;
+	}
+	
+	.page-id-61 .ui-datepicker td.undefined span , .page-id-61 .ui-datepicker td.undefined a
+	{
+		background: #ff0000 !important; 
+		 color: #fff !important;
+	}
+
+
+    .panel-group .panel {
+        border-radius: 0;
+        box-shadow: none;
+        border-color: #EEEEEE;
+		border: 1px solid #ddd;
+		margin-bottom:10px;
+    }
+
+    .panel-default > .panel-heading {
+		padding: 0;
+		border-radius: 0;
+		color: #ffffff;
+		background-color: #f1921c;
+		border-color: #EEEEEE;
+    }
+	
+	.view_mobile .panel-body
+	{
+		padding:0;
+	}
+	
+	.appendar_mobile a.btn-danger , .appendar_desktp a.btn-danger
+	{
+		border-radius: 20px;
+		padding: 3px 11px;
+		display: inline-block;
+		vertical-align: top;
+	}
+	
+	.additional_form_css
+	{
+		border-bottom:none;
+	}
+	
+	.page-id-36 .additional_form_css , .page-id-58 .additional_form_css , .page-id-34 .additional_form_css , .page-id-27 .additional_form_css
+	{
+		border-bottom:none;
+	}
+	
+	
+	.mobile_show_tabs_box
+	{
+		display:none;
+	}
+	
+	.page-id-61 #ui-datepicker-div
+	{
+		top: 0 !important;
+		left: 0 !important;
+		width: 100% !important;
+	}
+
+    .panel-title {
+        font-size: 14px;
+    }
+
+    .panel-title > a {
+        display: block;
+        padding: 15px;
+        text-decoration: none;
+		color:#fff;
+		font-weight: normal;
+    	font-size: 18px;
+    }
+
+    .more-less {
+        float: right;
+        color: #fff;
+    }
+
+    .panel-default > .panel-heading + .panel-collapse > .panel-body {
+        border-top-color: #EEEEEE;
+    }
+
+
+
+
+
+
+
+input#submit.book_propty_submit
+{
+	border-radius: 27px;
+	padding: 5px 20px;
+	background: #ec9032;
+	color: #fff;
+	font-weight: normal;
+}
+
+.show_tab_mobile
+{
+	display:none;
+}
+
+#main-menu
+{
+	position:relative;
+}
+
+.inf_crd_hdr
+{
+	padding-left:20px;
+}
+
+.mobile_nav_icon
+{
+	display:none;
+	position:absolute;
+	right:20px;
+	top:0px;
+	font-size:30px;
+	cursor:pointer;
+	z-index:2;
+	color:#faa53a;
+}
+	
+
+.info_outer
+{
+	margin-bottom:20px;
+}
+.home #property_type-error
+{
+	top:100%;
+}
+
+.heading_bg
+{
+	background: #f87a1f;
+    display: inline-block;
+    padding: 5px 20px;
+    font-size: 30px;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 0 20px 20px 0;
+}
+
+.prpty_msg {
+    margin: 15px 0;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 25px;
+    padding: 0px;
+    text-align: justify;
+}
+
+.carousel-control.left , .carousel-control.right
+{
+	background:none;
+}
+
+#myCarousel img
+{
+	border-radius:15px;
+}
+
+.form_inner
+{
+	background:#118808;
+	padding:20px;
+	border-radius:15px;
+	margin-top:20px;
+	padding-bottom:10px;
+}
+
+.heading_cnct_now
+{
+	text-transform:uppercase;
+	color:#fff;
+	text-align:center;
+	font-size:25px;
+	margin-bottom:20px;
+}
+
+.view_prpty_form input , .view_prpty_form textarea
+{
+	border-radius:20px;
+	border:none;
+	background:#fff;
+	box-shadow:none;
+}
+
+.t_and_c label
+{
+	color:#fff;
+	font-size:16px;
+	font-weight:normal;
+	cursor:pointer;
+}
+
+.field_view::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #333;
+  opacity:1;
+}
+.field_view::-moz-placeholder { /* Firefox 19+ */
+  color: #333;
+  opacity:1;
+}
+.field_view:-ms-input-placeholder { /* IE 10+ */
+  color: #333;
+  opacity:1;
+}
+.field_view:-moz-placeholder { /* Firefox 18- */
+  color: #333;
+  opacity:1;
+}
+
+.submit_btn_box 
+{
+	text-align:center;
+}
+
+.submit_btn_box input , .submit_btn_box input:hover
+{
+	border:none;
+}
+
+#datepicker1 { position: relative; z-index: 1000; }
+
+.facilities_list li
+{
+	list-style:none;
+	display:inline-block;
+	padding:10px 25px;
+	color:#666666;
+	font-size:14px;
+}
+
+.facilities_list li i
+{
+	color:#f87c22;
+	font-size:25px;
+	display:inline-block;
+	vertical-align:middle;
+	margin-right:10px;
+}
+
+.facilities_list
+{
+	padding: 0;
+    margin: 0;
+    border: 1px solid #118707;
+    margin: 20px 0 10px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.tabs_box
+{
+	
+}
+
+.tabs_list
+{
+	background:#f87c22;
+	padding:10px;
+	text-align:center;
+	margin:0;
+	border-radius:30px;
+}
+
+.tabs_list li.active
+{
+	
+}
+
+.tabs_list li
+{
+	list-style:none;
+	cursor:pointer;
+	color:#fff;
+	font-size:16px;
+	display:inline-block;
+	padding:0 20px;
+}
+
+
+.amin_list
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+	margin-left:-8.33%;
+	
+}
+
+.amin_list li
+{
+	float:left;
+	width:25%;
+	margin-left:8.33%;
+	list-style:none;
+	min-height:80px;
+	font-weight:600;
+}
+
+.tab_heading
+{
+	font-size:25px;
+	color:#333;
+	margin:50px 0;
+	font-weight:600;
+}
+
+.amin_list li img
+{
+	vertical-align:middle;
+	margin-right:15px;
+}
+
+.tabs_inner_
+{
+	display:none;
+}
+
+#amenities_tabs
+{
+	display:block;
+}
+
+
+.nearest_place_list
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+	margin-left:-3.33%;
+	text-align:center;
+}
+
+.nearest_place_list li
+{
+	float: left;
+    width: 30%;
+    margin-left: 3.33%;
+    list-style: none;
+    margin-bottom: 50px;
+    font-weight: 600;
+	height: 109px;
+}
+
+
+.nearest_place_list li i {
+    display: block;
+    font-size: 45px;
+    color: #118808;
+    width: 80px;
+    height: 80px;
+    line-height: 75px;
+    margin: 0 auto 10px;
+    border-radius: 50%;
+    border: 2px solid #118808;
+}
+#square_available
+{
+	width:15px;
+	height:15px;
+	background:#009900;
+	display:inline-block;
+	margin-right:5px;
+	vertical-align: unset;
+}
+
+#square_not_available
+{
+	width:15px;
+	height:15px;
+	background:#FF0000;
+	display:inline-block;
+	margin-right:5px;
+	vertical-align: unset;
+}
+
+.post-title , .breadcrumb-list
+	{
+		display:none;
+	}
+	
+	.select_box_list li
+	{
+		float:left;
+		margin-left:1%;
+		list-style:none;
+	}
+	
+	
+	.property_list_filter_header .select_box
+	{
+		display:block;
+		width:100%;
+	}
+	
+	.property_list_filter_header select
+	{
+		border:1px solid #faa63a;
+		border-radius:45px;
+		padding:5px 20px;
+		display:block;
+		width:100%;
+		box-shadow:none;
+	}
+	
+	.property_listing .left-sidebar
+	{
+		max-width:45%;
+		float:left;
+		position:unset;
+		
+	}
+	
+	.property_listing .content-wrapper
+	{
+		float:left;
+		padding:0;
+		width:53%;
+		margin-left:2%;
+		padding:0px;
+		border-radius: 20px;
+    	overflow: hidden;
+	
+	}
+	
+	.listing-box .listing-info
+	{
+		width:50%;
+	}
+	
+	.property_listing .listing-box .img-box
+	{
+		width:35%;
+	}
+
+ .found_title
+ {
+	 color:#f87a1f;
+	 font-size:21px;
+	 float:left;
+	 font-weight:600;
+ }
+ 
+ .right_ad_ {
+    float: right;
+    background: #118808;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 15px;
+    border-radius: 45px;
+}
+  
+ .top_title_box
+ {
+	 margin:0 0 20px 0;
+	 
+ }
+ 
+ .prpty_list_page_hdr
+ {
+	 padding-bottom:0 !important;
+ }
+ 
+ .serch_prpty_pg
+ {
+	 padding-top:0 !important;
+ }
+ 
+ .listing-info .title
+ {
+	color: #118808;
+    font-size: 20px;
+    font-weight: 600;
+ }
+ 
+ .listing-info .title a
+ {
+	color: #118808;
+    font-size: 20px;
+    font-weight: 600;
+ }
+ 
+ .location-and-post
+ {
+	font-size: 13px;
+	font-weight: 600;
+	color: #666;
+  }
+ 
+ .list_address_
+{
+	font-size: 15px;
+	color: #666;
+	font-weight: 600;
+	margin-top: 5px;
+ }
+ 
+ .list_fclity_box
+ {
+	 font-size: 11px;
+    margin-top: 5px;
+    font-weight: 600;
+ }
+ 
+ .list_aminities_box ul
+ {
+	 margin:0;
+	 padding:0;
+	 list-style:none;
+ }
+ 
+ .list_aminities_box
+ {
+	 margin-top:5px;
+ }
+ 
+ .list_aminities_box ul li
+ {
+	 float:left;
+	 width:30%;
+	 margin-left:3.33%;
+	 font-size:12px;
+ }
+ .list_aminities_box ul
+ {
+	 margin-left:-3.33%;
+ }
+ 
+ .list_aminities_box ul li i
+ {
+	 color:#f87a1f;
+	 margin-right:3px;
+ }
+ 
+ .list_price_box
+ {
+	 display:inline-block;
+	 font-weight: 600;
+     margin-right: 10px;
+ }
+ 
+ .contact_btn_box
+ {
+	 display:inline-block;
+ }
+ 
+  .contact_btn_box i
+  {
+	  color:#f87a1f;
+  }
+  
+ .contact_listing_btn
+ {
+	display: inline-block;
+	color: #666;
+	border: 1px solid #f87a1f;
+	border-radius: 25px;
+	text-align: center;
+	padding: 0px 10px;
+	font-size: 13px;
+	font-weight: 600;
+ }
+ 
+ .bottom_price_cntnr
+ {
+	 margin-top:5px;
+ }
+ 
+ .contact_btn_box img
+ {
+	 max-width:15px;
+ }
+ 
+ .listing_outer___
+ {
+	 height:573px;
+	 overflow:auto;
+	 padding:5px;
+ }
+ 
+ .scrollable .viewport .overview
+ {
+	 width:100%;
+	 padding:5px;
+ }
+ 
+ .read_more_btn_prpty
+ {
+	display: inline-block;
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight: 700;
+    color: #118808;
+ }
+ 
+ .contact_details
+ {
+	position: absolute;
+    bottom: 0;
+    left: 100%;
+    background: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 600;
+    border: 2px solid #f87a1f;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #000;
+	min-width:190px; 
+  }
+ 
+ .contact_btn_box
+ {
+ position:relative;
+ }
+ 
+ .cross_icon
+ {
+	 position:absolute;
+	 top:5px;
+	 right:5px;
+	 cursor:pointer;
+	}
+ 
+.show_on_mobile
+{
+	display:none !important;
+}
+
+.owl-carousel .owl-item img
+{
+	width:auto;
+	display:inline-block;
+}
+
+.owl-carousel .owl-item
+{
+	text-align:center;
+}
+
+#footer
+{
+	padding-top:15px;
+}
+
+.show_on_mobile_
+{
+	display:none;
+}
+
+#footer
+{
+	padding-top: 15px;
+    border-top: 2px solid #f87a1f;
+}
+
+.after_login_
+{
+	padding-top:15px;
+}
+
+.show_on_mobile_tabs
+{
+	display:none;
+}
+
+
+.icon_box
+{
+	float:right;
+}
+
+.hide_
+{
+	display: none;
+	vertical-align:middle;
+}
+
+.icon_box {
+    float: right;
+    font-size: 20px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.title_li
+{
+	display:inline-block
+}
+
+.show_on_mobile_tabs h4 a
+{
+	display:block;
+}
+
+.inline_info
+{
+	display:inline-block;
+	margin: 0 20px 0 0;
+}
+
+
+
+
+
+.tabs_list li.active {
+	position: relative;
+	background: #f87c22;
+	
+}
+.tabs_list li.active:after, .tabs_list li.active:before {
+	top: 140%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.tabs_list li.active:after {
+	border-color: rgba(248, 124, 34, 0);
+	border-top-color: #f87c22;
+	border-width: 10px;
+	margin-left: -10px;
+}
+.tabs_list li.active:before {
+	border-color: rgba(248, 124, 34, 0);
+	border-top-color: #f87c22;
+	border-width: 16px;
+	margin-left: -16px;
+}
+
+
+.login-banner .po_relative
+{
+	text-align:center;
+	margin-bottom:0;
+}
+
+
+.login-banner .po_relative .g-recaptcha
+{
+	display:inline-block;
+}
+
+.login-banner .forgot-password
+{
+	display:block;
+	text-align:center;
+}
+
+.cap_parent
+{
+	text-align:center;
+}
+
+.cap_parent .g-recaptcha
+{
+	display:inline-block;
+}
+
+.popup_top_error .error_msg_
+{
+	display: block;
+    position: initial;
+}
+
+
+
+#registration_form
+{
+	position:relative;
+	max-width: 60%;
+    margin: 0 auto;
+}
+
+
+.popup_top_error_outer
+{
+	position: absolute;
+	top: -160px;
+	width:100%;
+	text-align:center;
+	height:130%;
+	display:none;
+	z-index:20;
+}
+
+.popup_top_error
+{
+	display:inline-block;
+    background: #3f48b1;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+	display:inline-block;
+}
+
+.hidden_popup_
+{
+	background: #fff;
+    padding: 2px 14px;
+    color: #000;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.additional_form_css #property_general_form .form-control,
+.additional_form_css #property_general_form select, .additional_form_css #property_general_form input[type="text"], 
+.additional_form_css #property_general_form input[type="password"], 
+.additional_form_css #property_general_form input[type="email"]
+{
+	display: inline-block;
+	width: auto;
+	min-width: 350px;
+}
+
+.additional_form_css #property_general_form .form-control#description
+{
+	float:left !important;
+	min-width:450px;
+}
+
+.additional_form_css #property_general_form #description-error , .additional_form_css #property_general_form #property_type-error ,  .additional_form_css #property_general_form #title-error
+{
+	left:25px;
+}
+
+
+.additional_form_css #property_general_form .form-control#property_type ,.additional_form_css #property_general_form .form-control#title
+{
+	float:left !important;
+}
+
+.extra_margin_ico
+{
+	margin-left: 10px;
+    margin-right: 10px;
+}
+
+.edit_minus_ico
+{
+	margin-right: -5px;
+    margin-left: 0;
+}
+
+
+.additional_form_css #property_address_form #description-error , .additional_form_css #property_address_form #property_type-error ,  .additional_form_css #property_address_form #title-error
+{
+	left:25px;
+}
+
+
+.additional_form_css #property_address_form .form-control#location1 ,.additional_form_css #property_address_form .form-control#first_address_line,
+.additional_form_css #property_address_form .form-control#second_address_line ,.additional_form_css #property_address_form .form-control#third_address_line,.additional_form_css #property_address_form .form-control#city ,.additional_form_css #property_address_form .form-control#city, .additional_form_css #property_address_form .form-control#county , .additional_form_css #property_address_form .form-control#postcode,
+.additional_form_css #property_address_form .form-control#location , 
+.additional_form_css #profile_form .form-control#name,
+.additional_form_css #profile_form .form-control#email,
+.additional_form_css #profile_form .form-control#mobile,
+.additional_form_css #profile_form .form-control#address_line1,
+.additional_form_css #profile_form .form-control#address_line2,
+.additional_form_css #profile_form .form-control#address_line3,
+.additional_form_css #profile_form .form-control#town,
+.additional_form_css #profile_form .form-control#postcode
+{
+	float:left !important;
+	display: inline-block;
+	width: auto;
+	min-width: 350px;
+}
+
+
+
+ul.imgs_list_feat li {
+    LIST-STYLE: none;
+    float: left;
+    width: 19%;
+    margin-left: 1%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.add_more_tbl_btns
+{
+	float:left;
+}
+
+.find_adrs_btn
+{
+	border-radius: 20px;
+	background: #ec9033;
+	border: none;
+}
+
+.no_smking_ico {
+    margin-left: -3px;
+    width: 25px;
+    margin-right: -3px;
+}
+
+.get_map_btn_
+{
+	border-radius: 20px;
+    background: #ec9033;
+    border: none;
+}
+
+.find_adrs_btn:hover
+{
+	background:#118808;
+}
+
+.set_feat_img_ input[type=radio]
+{
+	vertical-align: middle;
+	display:inline-block;
+}
+
+.set_feat_img_ {
+    font-weight: 600;
+    margin-top: 5px;
+    display: inline-block;
+    background: #ec9033;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.set_feat_img_:hover
+{
+	opacity:0.7;
+}
+
+.imgs_list_feat li a
+{
+	background: #90ffbf;
+	color: #000;
+}
+
+.imgs_list_feat li a:hover
+{
+	opacity:0.7;
+	color: #000;
+}
+
+.add_mr_outer_
+{
+	padding-right:65px;
+}
+
+#login_txt__{
+    margin-top: 60px;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 12px #000;
+	font-weight:700;
+}
+.divClassRed{
+        color:#f87a1f;
+}
+.divClassBlue{
+    color:#0F7F3D;
+}
+
+
+.propty_feat_image .item
+{
+	width:610px;
+	height:360px;
+}
+
+.cnct_nw_msg_box
+{
+	min-height: 170px;
+}
+
+.glass_icon_dshwshr
+{
+	margin-right: 0px;
+    margin-left: -10px;
+}
+
+.po_relative .error_msg_#messageerrmsg
+{
+	bottom: 0;
+	top: auto;
+}
+
+.mobile_show_ftr
+{
+	display:none;
+}
+
+
+
+.my_submit_photos
+{
+	display:none;
+	background: #118808;
+    border-radius: 20px;
+}
+
+@media only screen and (max-width:1400px)
+{
+	
+	.additional_form_css .navbar .navbar-nav li > a
+	{
+		padding:0 8px;
+	}
+	
+	.additional_form_css .navbar .navbar-nav li > a .menu-icon
+	{
+		margin-right:9px;
+	}
+	
+}
+
+@media only screen and (max-width:1200px)
+{
+	.popular_cities_list li
+	{
+		    min-height: 210px;
+	}
+	
+	.property_listing .left-sidebar
+	{
+		max-width:54%;
+		
+	}
+	
+	.property_listing .content-wrapper
+	{
+		width:44%;
+	}
+	
+	.additional_form_css .navbar .navbar-nav li > a
+	{
+		font-size:13px;
+		padding:0 5px;
+	}
+	
+	.additional_form_css .navbar .navbar-nav li > a .menu-icon
+	{
+		margin-right:5px;
+	}
+	
+	
+	
+	
+}
+
+
+@media only screen and (max-width:992px)
+{
+	#footer .socia-btns a {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    color: #FFF;
+    background-color: #30497d;
+    border-radius: 50%;
+    margin-right: 6px;
+    line-height: 24px;
+    text-align: center;
+    font-size: 15px;
+}
+	.propty_feat_image
+	{
+	width:100%;
+	height:auto;
+	}
+	ul.imgs_list_feat li
+	{
+		width:49%;
+	}
+	.form_bottom_box
+	{
+		width:100%;
+	}
+	
+	.mobile_nav_icon
+	{
+		display:block;
+	}
+	
+	.main-menu .navbar-nav
+	{
+		display:none;
+	}
+	
+	#main-menu
+	{
+		min-height:70px;
+	}
+	
+	
+	.facility_list li
+	{
+		width:30%;
+		margin-left:3%;
+	}
+	
+	.carousel_outer
+	{
+		width:100%;
+	}
+	
+	#myCarousel img
+	{
+		width:100%;
+	}
+	
+	.profile_pic_box
+	{
+		border:none;
+		border-bottom: 1px solid #ddd;
+	}
+	
+	.form_box_vi
+	{
+		width:100%;
+	}
+	
+	.property_listing .left-sidebar
+	{
+		max-width:100%;
+		box-shadow: 0px 0px 10px #000;
+    	border-radius: 10px;
+		
+	}
+	
+	.property_listing .content-wrapper
+	{
+		width: 100%;
+		margin: 0;
+		margin-top: 15px;
+	}
+	
+	
+	.logo-section
+	{
+		text-align:center;
+	}
+	
+	#logo
+	{
+		float: none;
+		max-width: 150px;
+		
+	}
+	
+	.menu_wrap
+	{
+		float:none;
+
+	}
+	
+	.field-list
+	{
+		max-width:96%;
+	}
+	
+	.how_it_works_btn
+	{
+		background: rgba(255, 255, 255, 0.9);
+	}
+	
+	.popular_cities_list li
+	{
+		padding: 15px 0px;
+		float: left;
+		width: 48%;
+		margin-left:2%;
+		min-height: auto;
+	}
+	
+	ul.popular_cities_list
+	{
+		margin-left:-2%;
+	}
+	
+	#footer .w3-col
+	{
+		margin:0 0 20px 0;
+		text-align: center;
+		width:100%;
+		padding-left:10px;
+	}
+	
+	#footer .footer_logo_
+	{
+		text-align:left;
+	}
+	
+	.front-page #header
+	{
+		position:static;
+	}
+	
+	.menu_wrap
+	{
+		padding:8px 0;
+	}
+	
+	.register-banner .form-wrapper-inner .form-col:first-child , .register-banner .form-wrapper-inner .form-col:last-child
+	{
+		width:100%;
+		display: block;
+	}
+	
+	.link_section
+	{
+		float:right;
+		width:65%;
+		text-align:right;
+		
+	}
+	
+	.before_login
+	{
+		padding-top:15px;
+	}
+	
+	
+	.logo-section
+	{
+		float:left;
+		width:35%;
+	}
+	
+	#logo img
+	{
+		width:70px;
+	}
+	
+	
+	
+	
+	
+	.additional_form_css aside.left-panel
+	{
+		width:100%;
+		min-height:auto;
+	}
+	
+	.navbar .navbar-nav
+	{
+		width:100%;
+	}
+	
+	.additional_form_css .full_width_
+	{
+		width:97%;
+	}
+	
+	.additional_form_css .navbar .navbar-nav li > a
+	{
+		padding:0 15px;
+		font-size:16px;
+	}
+	
+	.additional_form_css .navbar
+	{
+		margin-bottom:0;
+	}
+	
+	.additional_form_css
+	{
+		border:none;
+	}
+	
+	.additional_form_css .card
+	{
+		border:none;
+	}
+	
+	/* .additional_form_css .content.mt-12
+	{
+		padding-left: 15px;
+    	padding-right: 15px;
+	} */
+	
+	
+	.additional_form_css .card .card-header
+	{
+		padding-left:10px;
+	}
+	
+	.additional_form_css .nav-tabs .nav-link
+	{
+		padding: 8px 12px;
+		margin:0;
+		margin-bottom:5px;
+	}
+	
+}
+
+@media only screen and (max-width:767px)
+{
+	#footer .show_on_mobile_
+	{
+		display:block;
+		width:100%;
+		text-align:center;
+	}
+	.hide_on_mobile_
+	{
+		display:none;
+	}
+	.mobile_hidden_ftr_
+	{
+		display:none;
+	}
+	
+	.mobile_show_ftr
+	{
+		display:block;
+	}
+	
+	#footer .w3-col
+	{
+		margin-bottom:0;
+	}
+	
+	.col-md-l2.show_on_mobile_
+	{
+		margin-top:20px;
+	}
+	
+	.additional_form_css #property_general_form .form-control#description
+	{
+		min-width:auto;
+		width:100%;
+	}
+	
+	.additional_form_css #property_general_form .form-control, .additional_form_css #property_general_form select, .additional_form_css #property_general_form input[type="text"], .additional_form_css #property_general_form input[type="password"], .additional_form_css #property_general_form input[type="email"] , .additional_form_css #property_address_form .form-control#location ,
+.additional_form_css #profile_form .form-control#name,
+.additional_form_css #profile_form .form-control#email,
+.additional_form_css #profile_form .form-control#mobile,
+.additional_form_css #profile_form .form-control#address_line1,
+.additional_form_css #profile_form .form-control#address_line2,
+.additional_form_css #profile_form .form-control#address_line3,
+.additional_form_css #profile_form .form-control#town,
+.additional_form_css #profile_form .form-control#postcode,
+.profile_upload_img
+	{
+		min-width:auto;
+		width:100%;
+	}
+	
+	
+	.additional_form_css #property_address_form .form-control#location1, .additional_form_css #property_address_form .form-control#first_address_line, .additional_form_css #property_address_form .form-control#second_address_line, .additional_form_css #property_address_form .form-control#third_address_line, .additional_form_css #property_address_form .form-control#city, .additional_form_css #property_address_form .form-control#city, .additional_form_css #property_address_form .form-control#county, .additional_form_css #property_address_form .form-control#postcode
+	{
+		min-width:auto;
+		width:100%;
+	}
+	.facility_list li
+	{
+		width: 47%;
+		margin-left: 3%;
+	}
+	
+	.facility_list
+	{
+		margin-left:-3%;
+	}
+	
+	.edit_minus_ico
+	{
+		margin-left:-4px;
+	}
+	
+	.mobile_house_alrm
+	{
+		margin:0;
+	}
+	
+	.mobile_no_smking
+	{
+		margin: 0;
+		margin-left: -4px;
+		margin-right: -9px;
+	}
+	
+	
+	.mobile_ac_ico
+	{
+		margin-left:5px;
+		margin-right:10px;
+	}
+	
+	
+	#availe_1 #ui-datepicker-div
+	{
+		display:block !important;
+	}
+	
+	.tab_heading
+	{
+		margin: 10px 0 20px;
+	}
+	
+	
+	#property_type
+	{
+		background-position: 92% 50%;
+	}
+	
+	.mobile_hdn_tabs_box , .hide_tbs_mobile_
+	{
+		display:none;
+	}
+	
+	
+	
+	.mobile_show_tabs_box
+	{
+		display:block;
+	}
+	
+	.appendar_mobile
+	{
+		margin-top:10px;
+		padding-left:0 !important;
+	}
+	
+	 
+
+	
+	#add_more_field_btn_ {
+    border-radius: 20px;
+    vertical-align: top;
+    background: #0d7c3b;
+}
+	
+	.hide_tab_mobile
+	{
+		display:none;
+	}
+	
+	.show_tab_mobile
+	{
+		display:block;
+	}
+	
+	.home #property_type-error , #postcode-error
+	{
+		top:75%;
+	}
+	
+	#wrong_postcode
+	{
+		top:80%;
+	}
+	
+	.property_list_filter_header select
+	{
+		padding:5px 17px;
+	}
+	
+	.top_title_box
+	{
+		padding:5px;
+	}
+	
+	.show_on_mobile_tabs
+	{
+		display:block;
+	}
+	
+	
+	.show_on_mobile_tabs .tabs_list
+	{
+		background:none;
+	}
+	
+	.show_on_mobile_tabs .tabs_list li
+	{
+		background:#f87c22;
+	}
+	
+	
+	.show_on_mobile_tabs .tabs_list li {
+    width: 100%;
+    background: #f87c22;
+    margin: 1px 0 0 0;
+    padding: 7px;
+	opacity:1 !important;
+	}
+	
+	.show_on_mobile_tabs .tabs_list li.active
+	{
+		opacity:1 !important;
+	}
+	
+	#amenities_tabs ul li
+	{
+		text-align:left;
+	}
+	
+	
+	.hide_on_mobile_tabs
+	{
+		display:none;
+	}
+	
+	.after_login_
+	{
+		padding-top:0;
+	}
+	
+	.after-login
+	{
+		display:block;
+	}
+	
+	.ui-datepicker-multi-3 .ui-datepicker-group
+	{
+		width:100%;
+	}
+	
+	
+	.facilities_list li
+	{
+		width:32.33%;
+		margin-left:1%;
+		float:left;
+	}
+	
+	
+	
+	.p-c_bottom span
+	{
+		width:100%;
+		text-align:center !important;
+	}
+	
+	.search-feature
+	{
+		top:25px;
+	}
+	
+	.slider img
+	{
+		height:360px;
+		
+	}
+	
+	.field-list li
+	{
+		width:100%;
+		border-radius: 10px;
+    	margin-bottom: 25px;
+		border: 1px solid #c7c5c5 !important;
+	}
+	
+	.popular_cities_list li
+	{
+		width:98%;
+		
+	}
+	
+	.inner_box_popular_cities
+	{
+		min-height:170px;
+		text-align:center;
+	}
+
+	.what_makes_us_the_preferred_choice .heading
+	{
+		padding-bottom:30px;
+	}
+	
+	.property_added_this_month .w3-col
+	{
+		width:100%;
+	}
+	
+	.how_it_works_link
+	{
+		margin-top:20px;
+	}
+	
+	div.show_on_mobile
+	{
+		display:block !important;
+	}
+	section.show_on_mobile
+	{
+		display:block !important;
+	}
+	.hide_on_mobile
+	{
+		display:none;
+	}
+	section
+	{
+		padding:20px 0;
+	}
+	
+	.register-banner, .login-banner
+	{
+		padding-top:40px;
+	}
+	
+	.ad_prpty_fld
+	{
+		margin-bottom:0;
+	}
+	
+	.footer_logo_
+	{
+		display:none;
+	}
+	
+	#ui-datepicker-div
+	{
+		width:auto !important;
+		left:0 !important;
+	}
+}
+
+@media only screen and (max-width:680px)
+{
+	
+	.amin_list li
+	{
+		width:48%;
+		margin-left: 2%;
+		text-align:center;
+	}
+	
+	.amin_list
+	{
+		 margin-left: -2%;
+	}
+	
+	.nearest_place_list li
+	{
+		width:46%;
+	}
+	
+	.facility_list li
+	{
+		margin:0;
+		width:100%;
+		margin-bottom: 10px;
+	}
+	
+	.facility_list
+	{
+		margin-left:0;
+	}
+	
+	.prpty_dtls_tbl label
+	{
+		margin-bottom:0;
+		
+	}
+}
+
+
+@media only screen and (max-width:580px)
+{
+	
+	.imgs_list_feat li
+	{
+		width:46%;
+	}
+	
+	.facilities_list li
+	{
+		padding: 10px 20px;
+	}
+	
+	.tabs_list li
+	{
+		float:left;
+		width:50%;
+		margin: 10px 0;
+	}
+	
+	
+	
+	.nearest_place_list li
+	{
+		width:97%;
+	}
+	
+	
+	.select_box_list
+	{
+		margin:0;
+	}
+	
+	.select_box_list li
+	{
+		width:100%;
+		margin:0;
+		margin-bottom:10px;
+	}
+	
+}
+
+@media only screen and (max-width:575.99px)
+{
+	
+	aside.left-panel .navbar .navbar-nav li > a
+	{
+		padding: 0 15px;
+	}
+	
+	#left-panel #main-menu
+	{
+		display:block;
+	}
+}
+
+@media only screen and (max-width:480px)
+{
+	ul.imgs_list_feat li
+	{
+		width:100%;
+	}
+	.desihomes_btn{
+		font-size:12px;
+	}
+	
+	.post_listing_btn
+	{
+		font-size:12px;
+	}
+	
+	.amin_list li
+	{
+		font-size:13px;
+	}
+	
+	.found_title
+	{
+		font-size:17px;
+	}
+	
+	.right_ad_
+	{
+		padding:3px 8px;
+	}
+	
+	#amenities_tabs ul li
+	{
+		font-size: 14px;
+		text-align:center;
+	}
+	
+	
+	
+	.amin_list li img {
+    width: auto;
+    margin: 0 auto;
+    display: block;
+    height: 30px;
+}
+	
+	
+	
+	#footer
+	{
+		padding-left: 5px;
+		padding-right: 5px;
+	}
+	
+	.menu_wrap a:last-child
+	{
+		display: block;
+    	margin-top: 5px;
+	}
+	
+	#header .menu_wrap a:last-child
+	{
+		display:inline-block;
+	}
+	
+	
+	.our_happy_family_box .img-box
+	{
+		margin:0 auto;
+	}
+	
+	.our_happy_family_box .top_box .cell-box
+	{
+		display:block;
+		text-align:center;
+		width:100%;
+	}
+	
+	.our_happy_family_box .info
+	{
+		text-align:center;
+	}
+	
+	.heading_as_btn
+	{
+		font-size:17px;
+		padding:5px 10px;
+		margin-bottom:20px;
+	}
+	
+	/* .register-banner .form-wrapper-inner form label
+	{
+		padding-left:20px;
+	} */
+	
+	.register-banner .form-wrapper-inner form label , .register-banner .form-wrapper-inner form input
+	{
+		width:100%;
+	}
+	
+	.g-recaptcha
+	{
+		width: 220px;
+		overflow: hidden;
+		border-right: 1px solid #ddd;
+		padding: 0;
+		height: 77px;
+	}
+	
+	div.heading_bg
+	{
+		font-size:21px;
+	}
+	
+	.facilities_list li
+	{
+		width:49%;
+		text-align:left;
+		padding: 10px 15px;
+	}
+	
+	.tabs_list li
+	{
+		width:100%;
+	}
+	
+	.link_section
+	{
+		width: 65%;
+
+	}
+	
+	.logo-section
+	{
+		width:35%;
+	}
+	
+	.register-banner .logo-section
+	{
+		width:100%;
+	}
+	
+	.additional_form_css .card-footer button
+	{
+		min-width: 100px;
+		margin:3px 1px;
+	}
+	
+	.logout_btn_
+	{
+		padding:2px 10px;
+	}
+	
+
+	.property_listing .listing-box .img-box
+	{
+		width: 100%;
+		min-height: 150px;
+		display: block;
+		margin-top: 15px;
+	}
+	
+	.listing-box .listing-info
+	{
+		width: 100%;
+		display: block;
+	}
+	
+	.card-body
+	{
+		padding:15px 0;
+	}
+	
+}
+
+
